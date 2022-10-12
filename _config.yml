@@ -78,7 +78,7 @@ plugins:
 
 author:
   name   : "Will Koval"
-  avatar : "/assets/images/Capture.jpg"
+  avatar : "/assets/images/Capture.JPG"
   bio    : "Disease ecologist and wannabe naturalist studying spatial structure in insect baculovirus interactions"
   links:
     - label: "Twitter"
