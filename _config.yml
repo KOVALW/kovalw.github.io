@@ -19,9 +19,9 @@ title                    : "Katie Dixon"
 title_separator          : "-"
 name                     : "Katie Dixon"
 description              : "Academic Website"
-url                      : "https://kpd19.github.io/website"
+url                      : "https://KOVALW.github.io/website"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "kpd19.github.io"
+repository               : "wkoval.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
