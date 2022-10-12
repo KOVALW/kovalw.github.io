@@ -15,10 +15,10 @@
 # in the templates via {{ site.myvariable }}.
 
 locale                   : "en"
-title                    : "Katie Dixon"
+title                    : "Will Koval"
 title_separator          : "-"
-name                     : "Katie Dixon"
-description              : "Academic Website"
+name                     : "Will Koval"
+description              : "Personal Website"
 url                      : ""
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "wkoval.github.io"
@@ -28,7 +28,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", custom"
   disqus:
-    shortname            : "kpd19-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "kovalw-github-io" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -77,25 +77,25 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Katie Dixon"
+  name   : "Will Koval"
   avatar : "/assets/images/option2.png"
-  bio    : "I'm a PhD student studing disease ecology at the University of Chicago"
+  bio    : "Disease ecologist and wannabe naturalist studying spatial structure in insect baculovirus interactions"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/kdixon_"
+      url: "https://twitter.com/wkoval3"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/kpd19"
+      url: "https://github.com/kovalw"
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/kdixon_"
+      url: "https://twitter.com/wkoval3"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/kpd19"
+      url: "https://github.com/kovalw"
 
 # Default styles:
 defaults:
