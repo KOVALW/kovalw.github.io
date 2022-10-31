@@ -10,7 +10,7 @@ feature_row:
   - image_path: "/assets/images/DFTM.JPG"
     #title: 
     excerpt: "Host-Pathogen Dynamics"
-    url: /research/host-pathogen-dynamics
+    url: /research/structured-epizootics
     btn_label: "Read More"
     btn_class: "btn--inverse"
   - image_path: "/assets/images/Baby SL.jpg"
