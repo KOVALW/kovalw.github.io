@@ -2,12 +2,8 @@
 layout: single
 author_profile: true
 header:
- image: /assets/images/Lupes3.png
+ image: /assets/images/wenatchee.jpg
 ---
-Hello, and thank you for visiting my website! Its purpose is to serve as an interface for those who are interested in learning about my research or collaboration. I've organized pages with:
 
-* [A description of my research and research interests,](/research)
-* [Information about me and my contact information](/about)
-* [Informational about mental health resources](/mentalhealth)
+Welcome to my website. I'm a disease ecologist working to understand the variation of disease dynamics in insect-baculovirus interactions. I'm broadly interested in spatial structure, dispersal, the histroy of ecology, and entomology as they all relate to the study of disease tranmission. You can use this site to see a [description of my ongoing and previous research projects](/research) or learn more [information about me and how to get in touch](/about).
 
-Thanks again, and feel free to contact me with any questions.
