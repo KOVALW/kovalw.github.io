@@ -4,14 +4,11 @@ author_profile: false
 header:
   image: "/assets/images/Lupes3.png"
   caption: "*Beehive Reservoir, Washington*"
-permalink: /research/host-pathogen-dynamics/
+permalink: /research/structured-epizootics/
 ---
 
 <img align="right" width="33%" margin-left="20px" src="/assets/images/DFTM.JPG">
 
-Douglas fir tussock moth (Orgyia pseudotsugata) populations have severe outbreaks that are usually terminated by a species-specific virus (OpNPV). OpNPV has two morphotypes, the single-capsid (SNPV) and multi-capsid nucleopolyhedrovirus (MNPV), which are characterized by the way their genetic material is bundled within a protective protein coating (occlusion body). The two morphotypes are phenotypically and genetically different. In classic disease theory, one morphotype will outcompete the other. However, in some populations, the two pathogens coexist at small spatial scales, while in in others you find only one or the other. 
+Pathogens are important natural enemies of insect pests, and therefore can serve as environmentally benign tools for protecting forests and crops. However, our limited understanding of variability in host-pathogen interactions reduces management efficacy. I am interested how local variation over space generates patterns of pathogen infection in insect host populations. I use observational, theoretical, and modeling approaches in my research on spatial dynamics of the pest species Douglas-fir tussock moth, *Orgyia pseudotsugata*, and its associated baculovirus. 
 
-My PhD thesis focuses on the mechanisms for virus competition and coexistence in the tussock moth-baculovirus system, which include spatial variability, tradeoffs in fitness parameters, and evolution of host resistance.  Across the Douglas fir tussock moth range, which is from the south western united states up to british columbia, the caterpillars experience varying host tree species and climates. 
-I use transmission experiments done in the field to capture the realism of nature in combination with mathematical models to answer these questions. 
-
-Model parameterized with experimental data reproduces four key features of field observations. First, host and pathogen cycles with long period and large amplitude. Pathogen coexistence is found under broad range of conditions. Douglas fir forests are more likely to lead to dominance of MNPV morphotype. Finally, mixed forests are more likely than Douglas fir forests to allow for coexistence of MNPV and SNPV morphotypes.
+My research focuses on random variation, or stochasticity, which is either "environmental" or "demographic". Environmental stochasticity consists of random events that befall populations, such as weather fluctuations. Demographic stochasticity instead consists of the random events that befall individuals. When we build models of insect populations, it is common to ignore demographic stochasticity and favor averaging over individual fates. However, my research is showing that models incorporating demographic stochasticity are more informative than other models for estimating total infection rates. I'm bridging large-scale continental models of insect tree damage with epidemiological models of a few individuals, working to better forest health protection and advance our understanding of how a few individuals can alter the spread of epidemics in large populations.
