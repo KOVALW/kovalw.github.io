@@ -99,6 +99,14 @@ footer:
 
 # Default styles:
 defaults:
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
   # _posts
   - scope:
       path: ""
@@ -110,13 +118,6 @@ defaults:
       comments: false
       share: true
       related: false
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
 
 category_archive:
   type: liquid
