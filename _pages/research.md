@@ -29,11 +29,8 @@ header:
 }
 </style>
 
-Pathogens are important natural enemies of insect pests, and therefore can serve as environmentally benign tools for protecting forests and crops. However, our limited understanding of variability in host-pathogen interactions reduces management efficacy. I am interested how local variation over space generates patterns of pathogen infection in insect host populations. I use observational, theoretical, and modeling approaches in my research on spatial dynamics of the pest species Douglas-fir tussock moth, *Orgyia pseudotsugata*, and its associated baculovirus. 
 
-My research focuses on random variation, or stochasticity, which is either "environmental" or "demographic". Environmental stochasticity consists of random events that befall populations, such as weather fluctuations. Demographic stochasticity instead consists of the random events that befall individuals. When we build models of insect populations, it is common to ignore demographic stochasticity and favor averaging over individual fates. However, my research is showing that models incorporating demographic stochasticity are more informative than other models for estimating total infection rates. I'm bridging large-scale continental models of insect tree damage with epidemiological models of a few individuals, working to better forest health protection and advance our understanding of how a few individuals can alter the spread of epidemics in large populations.
-
-## Research Topics
+The efficacy of management strategies is hampered by our limited understanding of the variability in host-pathogen interactions. I am particularly interested in exploring how local variation across different spatial scales leads to distinct patterns of pathogen infection within insect host populations. To achieve this, I employ a range of observational, theoretical, and modeling approaches to gain a deeper understanding of the spatial dynamics of disease systems. In my previous research, I focused on mosquito systems and examined the transmission dynamics of West Nile virus and Dengue in *Culex* spp. and *Aedes* spp., respectively. Currently, my research is centered on environmentally-transmitted pathogens of forest insects, particularly Douglas-fir tussock moth (*Orgyia pseudotsugata*) and its associated baculovirus. Click any of the porject images below for more detailed explanation of my research topics!
 
 <div class="feature-row">
   <div class="feature-item" style="flex: 2;">
