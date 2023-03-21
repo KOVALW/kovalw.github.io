@@ -57,3 +57,28 @@ The efficacy of management strategies is hampered by our limited understanding o
   </div>
 </div>
 
+<div class="feature-row">
+  <div class="feature-item">
+    <a href="/research/dengue">
+      <img class="feature-image" src="/assets/images/iquitos.png">
+    </a>
+    <div class="feature-content">
+      <h3>Dengue and human mobility</h3>
+      <p>Learn more about my research on dengue human mobility patterns</p>
+      <a href="/research/dengue" class="btn btn--inverse">Read More</a>
+      <span style='color:white;position:absolute;bottom:10px;left:10px;'>Dengue and human mobility</span>
+    </div>
+  </div>
+  <div class="feature-item" style="flex: 2;">
+    <a href="/research/culex">
+      <img class="feature-image" src="/assets/images/culex.png">
+    </a>
+    <div class="feature-content">
+      <h3>Ecology of Culex spp.</h3>
+      <p>Learn more about my research on Culex quinquefasciatus</p>
+      <a href="/research/culex" class="btn btn--inverse">Read More</a>
+      <span style='color:white;position:absolute;bottom:10px;left:10px;'>Ecology of Culex spp.</span>"
+    </div>
+  </div>
+</div>
+
