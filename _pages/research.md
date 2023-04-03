@@ -71,7 +71,7 @@ The efficacy of management strategies is hampered by our limited understanding o
   </div>
   <div class="feature-item" style="flex: 2;">
     <a href="/research/culex">
-      <img class="feature-image" src="/assets/images/culex.png">
+      <img class="feature-image" src="/assets/images/LarvalStage.png">
     </a>
     <div class="feature-content">
       <h3>Ecology of Culex spp.</h3>
