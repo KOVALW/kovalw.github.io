@@ -56,7 +56,7 @@ Understanding the variability in host-pathogen interactions can enhance the effi
     </div>
   </div>
 </div>
-
+<!--
 <div class="feature-row">
   <div class="feature-item">
     <a href="/research/dengue">
@@ -81,4 +81,4 @@ Understanding the variability in host-pathogen interactions can enhance the effi
     </div>
   </div>
 </div>
-
+-->
