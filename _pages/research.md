@@ -30,7 +30,7 @@ header:
 </style>
 
 
-The efficacy of management strategies is hampered by our limited understanding of the variability in host-pathogen interactions. I am particularly interested in exploring how local variation across different spatial scales leads to distinct patterns of pathogen infection within insect host populations. To achieve this, I employ a range of observational, theoretical, and modeling approaches to gain a deeper understanding of the spatial dynamics of disease systems. In my previous research, I focused on mosquito systems and examined the transmission dynamics of West Nile virus and Dengue in *Culex* spp. and *Aedes* spp., respectively. Currently, my research is centered on environmentally-transmitted pathogens of forest insects, particularly Douglas-fir tussock moth (*Orgyia pseudotsugata*) and its associated baculovirus. Click any of the porject images below for more detailed explanation of my research topics!
+Understanding the variability in host-pathogen interactions can enhance the efficacy of managing such systems. I'm interested in exploring how local variation across different spatial scales leads to distinct patterns of pathogen infection within insect host populations. To achieve this, I employ a range of observational, theoretical, and modeling approaches to gain a deeper understanding of the spatial dynamics of disease systems. In my previous research, I focused on mosquito systems and examined the transmission dynamics of West Nile virus and Dengue in *Culex* spp. and *Aedes* spp., respectively. Currently, my research is centered on environmentally-transmitted pathogens of forest insects, particularly Douglas-fir tussock moth (*Orgyia pseudotsugata*) and its associated baculovirus. Click any of the project images below for more detailed explanation of my research topics!
 
 <div class="feature-row">
   <div class="feature-item" style="flex: 2;">
@@ -74,10 +74,10 @@ The efficacy of management strategies is hampered by our limited understanding o
       <img class="feature-image" src="/assets/images/LarvalStage.png">
     </a>
     <div class="feature-content">
-      <h3>Ecology of Culex spp.</h3>
-      <p>Learn more about my research on Culex quinquefasciatus</p>
+      <h3>Ecology of <em>Culex</em> spp.</h3>
+      <p>Learn more about my research on <em>Culex quinquefasciatus</em></p>
       <a href="/research/culex" class="btn btn--inverse">Read More</a>
-      <span style='color:white;position:absolute;bottom:10px;left:10px;'>Ecology of Culex spp.</span>"
+      <span style='color:black;position:absolute;bottom:10px;left:10px;'>Ecology of <em>Culex</em> spp.</span>"
     </div>
   </div>
 </div>
