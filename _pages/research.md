@@ -56,11 +56,11 @@ Understanding the variability in host-pathogen interactions can enhance the effi
     </div>
   </div>
 </div>
-<!--
+
 <div class="feature-row">
   <div class="feature-item">
-    <a href="/research/dengue">
-      <img class="feature-image" src="/assets/images/iquitos.png">
+    <a href="/about/">
+      <img class="feature-image" src="/assets/images/white_sq.png">
     </a>
     <div class="feature-content">
       <h3>Dengue and human mobility</h3>
@@ -71,7 +71,7 @@ Understanding the variability in host-pathogen interactions can enhance the effi
   </div>
   <div class="feature-item" style="flex: 2;">
     <a href="/research/culex">
-      <img class="feature-image" src="/assets/images/LarvalStage.png">
+      <img class="feature-image" src="/assets/images/culex_layered.png">
     </a>
     <div class="feature-content">
       <h3>Ecology of <em>Culex</em> spp.</h3>
