@@ -46,7 +46,7 @@ Understanding the variability in host-pathogen interactions can enhance the effi
   </div>
   <div class="feature-item">
     <a href="/research/dispersal">
-      <img class="feature-image" src="/assets/images/craters3.jpg">
+      <img class="feature-image" src="/assets/images/sampling.jpg">
     </a>
     <div class="feature-content">
       <h3>Dispersal</h3>
