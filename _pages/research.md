@@ -35,7 +35,7 @@ Understanding the variability in host-pathogen interactions can enhance the effi
 <div class="feature-row">
   <div class="feature-item" style="flex: 2;">
     <a href="/research/structured-epizootics">
-      <img class="feature-image" src="/assets/images/sampling.jpg">
+      <img class="feature-image" src="/assets/images/stochas_and_space.png">
     </a>
     <div class="feature-content">
       <h3>Stochasticity and space</h3>
