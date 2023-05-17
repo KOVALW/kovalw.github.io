@@ -45,14 +45,14 @@ Understanding the variability in host-pathogen interactions can enhance the effi
     </div>
   </div>
   <div class="feature-item">
-    <a href="/research/dispersal">
-      <img class="feature-image" src="/assets/images/sampling.jpg">
+    <a href="/about/">
+      <img class="feature-image" src="/assets/images/white_sq.png">
     </a>
     <div class="feature-content">
-      <h3>Dispersal</h3>
-      <p>Learn more about my research on dispersal and its impact on the spread of epidemics in large populations.</p>
-      <a href="/research/dispersal" class="btn btn--inverse">Read More</a>
-      <span style='color:white;position:absolute;bottom:10px;left:10px;'>Dispersal</span>"
+      <h3>Dengue and human mobility</h3>
+      <p>Learn more about my research on dispersal in Lepidoptera</p>
+      <a href="/research/dengue" class="btn btn--inverse">Read More</a>
+      <span style='color:white;position:absolute;bottom:10px;left:10px;'>Dispersal</span>
     </div>
   </div>
 </div>
