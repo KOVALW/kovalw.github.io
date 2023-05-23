@@ -70,13 +70,13 @@ Understanding the variability in host-pathogen interactions can enhance the effi
     </div>
   </div>
   <div class="feature-item" style="flex: 2;">
-    <a href="/research/culex">
+    <a href="https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-018-2711-1">
       <img class="feature-image" src="/assets/images/culex_layered.png">
     </a>
     <div class="feature-content">
       <h3>Ecology of <em>Culex</em> spp.</h3>
       <p>Learn more about my research on <em>Culex quinquefasciatus</em></p>
-      <a href="/research/culex" class="btn btn--inverse">Read More</a>
+      <a href="https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-018-2711-1" class="btn btn--inverse">Read More</a>
       <span style='color:black;position:absolute;bottom:10px;left:10px;'><em>Culex</em> Ecology</span>"
     </div>
   </div>
