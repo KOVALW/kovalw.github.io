@@ -17,7 +17,9 @@ I'm currently a PhD candidate in the Ecology and evolution program at the Univer
       <li>American Tropics: The Caribbean Roots of Biodiversity Science by Megan Raby, 2017</li>
       <li>The carrier bag theory of fiction by Ursula K. LeGuin, 1986. </li>      
       <li> Thick: and other essays by Tressie McMillan Cottom, 2019. </li>      
-      <li>The dialectical biologist by Richard Levins and Richard Lewontin, 1985. </li>      
+      <li>The dialectical biologist by Richard Levins and Richard Lewontin, 1985. </li>
+      <li>Flight Behavior by Barbara Kingsolver, 2012</li>
+      <li>Galit Shmueli. To Explain or to Predict? Statistical Science (2010) </li>
       <li> Andrew Gelman and Eric Loken. The garden of forking paths: Why multiple comparisons can be a problem, even when there is no “fishing expedition” or “p-hacking” and the research hypothesis was posited ahead of time (2019). </li>
       <li>Simha et al. Moving beyond the “Diversity Paradox”: the limitations of competition-based frameworks in understanding species diversity, The American Naturalist (2022). </li>
   </ul>
